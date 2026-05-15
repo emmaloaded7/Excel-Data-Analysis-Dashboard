@@ -28,5 +28,20 @@ To design an interactive and visually engaging **Global Economic Insights Dashbo
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e9a72788-9ece-4eaa-b339-4c589844cfdc" />
 
+## Project Insights
+The dashboard provides a comprehensive overview of global socioeconomic indicators across different countries and regions. From the analysis, Several key insights were identified:
+* Income Disparity
+* Population Distribution
+* Regional Differences
+* Development patterns
+* Key Drivers of Performance
+* Outliers
+
+## Final Conclusion
+The Global Socioeconomic Dashboard successfully transforms complex international data into a clear and interactive visual analysis. It highlights major differences in income, development, and population trends across the world.
+From the analysis, it is evident that economic development is unevenly distributed, with strong correlations between income levels, education, and regional development status.
+This project demonstrates the importance of data visualization in understanding global patterns and supports data-driven decision-making for policymakers, researchers, and development organizations.
+In conclusion, the dashboard provides valuable insights into global inequality and development trends, making complex socioeconomic data easy to interpret and act upon.
+
 * Slicer & Filters
 * Final Formatting
