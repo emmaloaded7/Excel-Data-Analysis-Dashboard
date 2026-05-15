@@ -15,3 +15,13 @@ To design an interactive and visually engaging **Global Economic Insights Dashbo
 * Which regions show the best balance between wages and unemployment?
 
 [Excel-Data-Analysis-Dashboard](https://github.com/emmaloaded7/Excel-Data-Analysis-Dashboard/blob/main/dashboard_screenshot.png)
+
+## Process
+* Data Pollection
+* Data Cleaning
+* Data Preparation - this involves the use of formular
+* Pivot Table creation
+* Pivot Charts
+* Dashboard Layout
+* Slicer & Filters
+* Final Formatting
