@@ -36,6 +36,8 @@ The dashboard provides a comprehensive overview of global socioeconomic indicato
 * Development patterns
 * Key Drivers of Performance
 * Outliers
+* Slicer & Filters
+* Final Formatting
 
 ## Final Conclusion
 The Global Socioeconomic Dashboard successfully transforms complex international data into a clear and interactive visual analysis. It highlights major differences in income, development, and population trends across the world.
@@ -43,5 +45,4 @@ From the analysis, it is evident that economic development is unevenly distribut
 This project demonstrates the importance of data visualization in understanding global patterns and supports data-driven decision-making for policymakers, researchers, and development organizations.
 In conclusion, the dashboard provides valuable insights into global inequality and development trends, making complex socioeconomic data easy to interpret and act upon.
 
-* Slicer & Filters
-* Final Formatting
+
