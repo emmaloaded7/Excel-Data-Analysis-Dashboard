@@ -17,10 +17,10 @@ To design an interactive and visually engaging **Global Economic Insights Dashbo
 [Excel-Data-Analysis-Dashboard](https://github.com/emmaloaded7/Excel-Data-Analysis-Dashboard/blob/main/dashboard_screenshot.png)
 
 ## Process
-* Data Pollection
+* Data Collection
 * Data Cleaning
 * Data Preparation - this involves the use of formular
-* Pivot Table creation
+* Pivot Table Creation
 * Pivot Charts
 * Dashboard Layout
 
